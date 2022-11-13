@@ -1,0 +1,4 @@
+- Clone project
+- Install Deps
+- Run Project
+- See the difference
